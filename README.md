@@ -1,8 +1,8 @@
-# Blooger-website
+# Blooger Website
 
 Fitness website to be linked with a fitness app. Started as a school project.
 
-#Technologies Used:
+#Technologies Used:#
 
 * HTML5
 * CSS3
