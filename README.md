@@ -18,7 +18,7 @@ Fitness website to be linked with a fitness app. Started as a school project.
 
 
 
-[Click Button `Demo` And View Project Live](https://mian-ali.github.io/Blooger-website/)
+[Click Button Demo And View Project Live](https://mian-ali.github.io/Blooger-website/)
 
 
 
