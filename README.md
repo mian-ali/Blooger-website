@@ -1,6 +1,6 @@
 # Blooger Website
 
-Fitness website to be linked with a fitness app. Started as a school project.
+Create a Blog web App Creating User Blog , Started as a school project.
 
 ## Technologies Used:
 
